@@ -1,4 +1,4 @@
-# Stop The #divFest
+# Vue + Graphql talk
 
 Talk for Vue London
 
