@@ -1,0 +1,25 @@
+{
+  "name": "vue-apollo-magic",
+  "version": "1.0.0",
+  "description": "Vue London Talk",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "build": "mdx-deck build deck.mdx --no-html"
+  },
+  "author": "Sara Vieira",
+  "now": {
+    "alias": "vue-apollo-magic"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "file-loader": "^2.0.0",
+    "mdx-deck": "1.7.14"
+  },
+  "dependencies": {
+    "mdx-deck-code-surfer": "^0.5.3",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "styled-components": "^4.1.1"
+  }
+}
