@@ -26,7 +26,7 @@ const Layout = ({ children }) => (
   <Fragment>
     <Wrapper>{children}</Wrapper>
     <Footer>
-      <span>Vue Berlin 🇩🇪</span>
+      <span>Vue Amsterdam 🇳🇱</span>
       <span>@NikkitaFTW</span>
     </Footer>
   </Fragment>
